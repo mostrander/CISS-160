@@ -1,0 +1,19 @@
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\bin\Debug\ShippingCalculator - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\bin\Debug\ShippingCalculator - Megan Ostrander.exe
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\bin\Debug\ShippingCalculator - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\obj\Debug\ShippingCalculatorExtra - Megan Ostrander.csprojAssemblyReference.cache
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\obj\Debug\ShippingCalculator___Megan_Ostrander.Form1.resources
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\obj\Debug\ShippingCalculator___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\obj\Debug\ShippingCalculatorExtra - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\obj\Debug\ShippingCalculatorExtra - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\obj\Debug\ShippingCalculator - Megan Ostrander.exe
+C:\Users\Megan\source\repos\ShippingCalculator - Megan Ostrander\obj\Debug\ShippingCalculator - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\bin\Debug\ShippingCalculator - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\bin\Debug\ShippingCalculator - Megan Ostrander.exe
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\bin\Debug\ShippingCalculator - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\obj\Debug\ShippingCalculator___Megan_Ostrander.Form1.resources
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\obj\Debug\ShippingCalculator___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\obj\Debug\ShippingCalculatorExtra - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\obj\Debug\ShippingCalculatorExtra - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\obj\Debug\ShippingCalculator - Megan Ostrander.exe
+C:\Users\Megan\source\repos\ShippingCalculatorExtra - Megan Ostrander\obj\Debug\ShippingCalculator - Megan Ostrander.pdb
