@@ -1,0 +1,19 @@
+ShippingCalculator - Megan Ostrander
+
+The hardest part of this project was getting the switch to work as 
+I desired. I remembered how to setup the basic form of the switch
+no problem, but the issue started when I was trying to run an if 
+statement based on the shippingCost variable calculated within the
+switch statement. I had forgotten that the return statements return
+control to the main program, so it was NEVER reaching the if 
+statement I had written after the switch statement.
+
+I ended up putting the if statement in each of the cases, since I 
+could not have it included only at the end of the switch prior to the
+last return. I also HAD to have return statements for all cases, 
+because none of them could fall through to the next. 
+
+I initially felt lazy and did not want to write another method for the
+if statement that determines whether shipping cost should be capped,
+but I decided to do it anyway because I did not like having repeating 
+code. It looked sloppy and it annoyed me.
