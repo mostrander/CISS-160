@@ -1,0 +1,21 @@
+CalcWithAccums - Megan Ostrander  Test Plan
+
+For this project, the goal was to have the user input the dimensions
+of the mulch they purchased / ordered in feet (width, height, length);
+Then, I needed to convert that information into cubic yards, calculate
+the cost of the order based on a predetermined price, display the 
+amount of space left on the order truck, and keep a running total of 
+the amount of mulch ordered and overall order cost.
+
+Once I figured out how to properly convert cubic feet into cubic yards,
+the calculations themselves were not a problem. I verified the 
+calculations both on paper and by comparing the results to the finished
+program provided as a reference. 
+
+I did run into a small snag after I altered how the remaining truck
+capacity was calculated. I had originally created a variable to hold
+the remaining capacity, but forgot about it and ended up modifying
+the code when I was done to utilize it. However, when I made the change
+I did not realize that it was doubling the amount that was being
+taken out. I relized that I was subtracking the wrong variable and
+fixed the problem.

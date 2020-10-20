@@ -1,0 +1,10 @@
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\bin\Debug\CalcValidation - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\bin\Debug\CalcValidation - Megan Ostrander.exe
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\bin\Debug\CalcValidation - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\obj\Debug\CalcValidation___Megan_Ostrander.Form1.resources
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\obj\Debug\CalcValidation___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\obj\Debug\CalcValidation - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\obj\Debug\CalcValidation - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\obj\Debug\CalcValidation - Megan Ostrander.exe
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\obj\Debug\CalcValidation - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\CalcValidation - Megan Ostrander\obj\Debug\CalcValidation - Megan Ostrander.csprojAssemblyReference.cache

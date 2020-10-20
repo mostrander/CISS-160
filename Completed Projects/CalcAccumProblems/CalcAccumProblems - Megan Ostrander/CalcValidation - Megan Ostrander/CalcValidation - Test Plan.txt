@@ -1,0 +1,32 @@
+CalcValidation - Megan Ostrander  Test Plan
+
+The goal of this project was essentially to take user input
+and calculate the average miles per gallon, as well as the 
+total cost to refill the gas tank at stop #2.
+
+I added several if / else statements to catch a few different
+issues that may cause the program to behave incorrectly or 
+crash. Those issues are invalid data input (not numeric), 
+null input, or empty input. If the program throws any errors
+when the user clicks on the calculate button, it automatically
+defaults to the catch statement where these conditions are tested.
+If the program finds any of these errors, it shows the 
+corresponding error message and immediately returns control to the
+Form / user. 
+
+For above, I ran the program several times throughout development 
+to ensure that the core functionality (i.e. calculations) were not
+altered or accidentally broken while implementing the error catching.
+I also tested the program for each error and verified that each 
+custom error message appears when it should, and that only the first
+encountered error is displayed. I was able to cause an error, fix it,
+and continue using the program (and fixing additional "errors") while
+the program ran. Essentially, the program did not crash because of an
+error, and it continued to inform me of errors after fixing the initial
+error as a user would encounter.
+
+I also included a check for the gas price field because I thought it
+would be important to include. It is typically not possible or allowed
+for an individual to be paid to get gas (i.e. have a negative gas cost),
+thus I have the program setup to throw an error message if the gas
+cost field contains a number less than zero.

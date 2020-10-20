@@ -1,0 +1,20 @@
+CalcWithAccumsB - Megan Ostrander  Test Plan
+
+This project in particular made me want to scream bloody murder.
+My only significant problem with this project was I could not find
+an easy way to copy my previous code to this new project. Every
+attempt I made to copy the project resulted in it being an exact
+duplicate of the original that refused to changed in any manner.
+If I attempted to simply copy all of the code to the new project
+followed by the design layout (or vice versa), than the other would
+be completely erased even after saving each paste. I also tried to 
+use the "create from existing code" option visual studio offers, but
+that produced an issue where I could not change the name without 
+significant issues. Online guides were not very useful in this regard,
+as many showed how to save to Github, and not how to create a new copy
+with existing code.
+
+Otherwise, the project went very smooth since it was simply a matter
+of adding several new display fields for the output. I verified the 
+calculations by hand as I did the running totals and they appeared 
+right to me. 
