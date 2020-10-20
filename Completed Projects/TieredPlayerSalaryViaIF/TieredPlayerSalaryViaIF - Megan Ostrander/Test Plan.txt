@@ -1,0 +1,23 @@
+TieredPlayerSalaryViaIF - Megan Ostrander
+
+This program required a good amount of reorganization after I had 
+completed writing the code. I have the bulk of the processing in 
+an if/else statement that verified that the number of hits input
+was within the specified range 1 - 300. However, I did not include
+that code within the if/else statement that validated the name input
+originally. Thus, the program would generate an error message for the
+name field if necessary, but it would continue to process the hit 
+information given regardless.
+
+Thus, I ultimately had to move the entire first if/else statement 
+within the latter if/else statement in order to properly trigger 
+the error message (when applicable) without continuing to process 
+the information. 
+
+Most of my testing revolved around verifying that the program 
+was recognizing the correct tier level, thus using the correct 
+salary amount per hit. I used decimal and int variables in my program,
+so there was no need to cast to another variable type.
+
+I ran the calculations manually to verify that the output was as 
+expected.
