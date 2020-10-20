@@ -1,0 +1,15 @@
+DecisionStructureBEXTRA - Megan Ostrander Test Plan
+
+Switching the original testbox field for the shipping code to radio
+buttons required me to rewrite some of the code to recognize 
+when one of the buttons are selected, and then use that information
+to set the zone information for the rest of the program. 
+I chose to do this as a separate method and just call it, thus making
+the code a little cleaner in that regard.
+
+Changing the switch statement used for determining the zone cost to 
+use and calculating the total shipping cost to an If / else statement
+was just annoying. It was not difficult, but it produced substantially
+more lines of code than I personally liked. Looking back at it I
+probably could have rewritten that entire section as another 
+standalone method and just call it and return the necessary information.
