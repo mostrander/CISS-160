@@ -1,0 +1,25 @@
+FlipACoin - Megan Ostrander notes
+
+The primary function I had to test was the random number generator
+that determines whether heads or tails is shown on each flip. It
+was designed to pick either 1 or 0 randomly per flip, and then to
+show an image of either heads or tails based on the number generated.
+
+I created a small label that was positioned to the left of where the 
+image would appear for testing purposes. I used this label to display
+the number that is randomly generated per flip, to verify that only 1
+and 0 was being selected while generating a number. I also compared 
+this number to the image that was shown to verify that the corresponding
+image was shown correctly. It is not visible during the program anymore
+because I commented out the functions related to it, but they are 
+still in the source code for troubleshooting purposes.
+
+I also had to figure out how to disable the flip a coin button after 
+each flip so users would be required to clear or reset the program 
+before each coin flip. It is a boolean function, so it was just a 
+matter of finding the correct function and setting it accordingly.
+I ran the program a few times to verify that button was properly
+disabled and then re-enabled when the program was reset. 
+
+Resetting the program was each. I just had the flip a coin button
+re-enabled, and I told the program to hide the images.

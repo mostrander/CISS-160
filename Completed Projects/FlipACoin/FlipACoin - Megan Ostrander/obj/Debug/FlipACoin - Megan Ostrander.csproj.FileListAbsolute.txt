@@ -1,0 +1,10 @@
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\bin\Debug\FlipACoin - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\bin\Debug\FlipACoin - Megan Ostrander.exe
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\bin\Debug\FlipACoin - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\obj\Debug\FlipACoin - Megan Ostrander.csprojAssemblyReference.cache
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\obj\Debug\FlipACoin___Megan_Ostrander.FlipACoin.resources
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\obj\Debug\FlipACoin___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\obj\Debug\FlipACoin - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\obj\Debug\FlipACoin - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\obj\Debug\FlipACoin - Megan Ostrander.exe
+C:\Users\Megan\source\repos\FlipACoin - Megan Ostrander\obj\Debug\FlipACoin - Megan Ostrander.pdb
