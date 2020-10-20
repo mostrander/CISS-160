@@ -1,0 +1,10 @@
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\bin\Debug\CardIdentifier - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\bin\Debug\CardIdentifier - Megan Ostrander.exe
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\bin\Debug\CardIdentifier - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\obj\Debug\CardIdentifier___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\obj\Debug\CardIdentifier - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\obj\Debug\CardIdentifier - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\obj\Debug\CardIdentifier - Megan Ostrander.exe
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\obj\Debug\CardIdentifier - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\obj\Debug\CardIdentifier___Megan_Ostrander.CardIdentifier.resources
+C:\Users\Megan\source\repos\CardIdentifier - Megan Ostrander\obj\Debug\CardIdentifier - Megan Ostrander.csprojAssemblyReference.cache

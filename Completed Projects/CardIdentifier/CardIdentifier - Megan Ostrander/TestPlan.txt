@@ -1,0 +1,21 @@
+CardIdentifier - Megan Ostrander notes
+
+I ran the program a few times to verify that it ran smoothly,
+as well as to verify that the card names displayed in the
+cardOutput label when a card was clicked on.
+
+Each name was correctly displayed when the corresponding card
+was clicked on by the user (i.e. me). The exit button also
+successfully executed the command to close the program when 
+pressed.
+
+The greatest annoyance I had was the fact that I forgot to rename
+the pictureboxes I used prior to adding them to the code, which
+prevented me from changing the names later because double-clicking
+on the pictureboxes did not update the name information I changed,
+nor was I able to manually remove the code so I could reinsert it
+without causing major errors in the program itself.
+
+Thus, I opted to note in each method which card it was responding
+to when clicked. This way the programmer would be aware of which
+card is being clicked on when they look at the code.
