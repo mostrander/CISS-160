@@ -1,0 +1,15 @@
+Test Plan SalesTaxCalc - Megan Ostrander
+
+The primary function that had to be checked in this program
+was the sales tax calculation. What I did was create a static
+variable that A) could only be used in the current class and 
+B) could not be altered while the program was running.
+I set this variable for tax set to the current Lorain County
+rate of 6.75%, which I used .0675m to be clear about it.
+
+I manually did the calculations myself and compared them to 
+the computer output, which matched what I was expecting the
+results to be. Once the tax was calculated, it was simply
+a matter of adding it to the cost of purchase and displaying
+the final amount owed / spent (depending on how one views 
+the program's use). 

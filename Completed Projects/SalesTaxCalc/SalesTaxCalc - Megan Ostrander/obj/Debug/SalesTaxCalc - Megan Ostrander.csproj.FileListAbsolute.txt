@@ -1,0 +1,10 @@
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\bin\Debug\SalesTaxCalc - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\bin\Debug\SalesTaxCalc - Megan Ostrander.exe
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\bin\Debug\SalesTaxCalc - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\obj\Debug\SalesTaxCalc - Megan Ostrander.csprojAssemblyReference.cache
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\obj\Debug\SalesTaxCalc___Megan_Ostrander.Form1.resources
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\obj\Debug\SalesTaxCalc___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\obj\Debug\SalesTaxCalc - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\obj\Debug\SalesTaxCalc - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\obj\Debug\SalesTaxCalc - Megan Ostrander.exe
+C:\Users\Megan\source\repos\SalesTaxCalc - Megan Ostrander\obj\Debug\SalesTaxCalc - Megan Ostrander.pdb
