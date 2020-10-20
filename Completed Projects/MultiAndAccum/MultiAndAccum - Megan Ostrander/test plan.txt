@@ -1,0 +1,15 @@
+MultiAndAccum - Megan Ostrander
+
+I ran into a small issue with the running total because it did not want to actually 
+add the new result, and instead displayed the current result as the 
+running total. I then tried to use an if else statement to force it 
+to add properly, but then it simply did not show any negative values
+with the negative sign in front (showed them as positive values),
+and it continued to not add correctly.
+
+I eventually realized that it had to be a variable outside of the 
+calculate method to function properly.
+
+Verifying the calculations were pretty easy. I just used small numbers
+that I knew the result of without calculating to verify that the 
+program was multiplying them correctly.

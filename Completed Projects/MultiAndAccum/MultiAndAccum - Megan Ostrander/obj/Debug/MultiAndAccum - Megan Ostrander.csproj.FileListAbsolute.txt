@@ -1,0 +1,10 @@
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\bin\Debug\MultiAndAccum - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\bin\Debug\MultiAndAccum - Megan Ostrander.exe
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\bin\Debug\MultiAndAccum - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\obj\Debug\MultiAndAccum___Megan_Ostrander.Form1.resources
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\obj\Debug\MultiAndAccum___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\obj\Debug\MultiAndAccum - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\obj\Debug\MultiAndAccum - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\obj\Debug\MultiAndAccum - Megan Ostrander.exe
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\obj\Debug\MultiAndAccum - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\MultiAndAccum - Megan Ostrander\obj\Debug\MultiAndAccum - Megan Ostrander.csprojAssemblyReference.cache
