@@ -1,0 +1,21 @@
+Tranlator - Megan Ostrander Notes.
+
+The testing for the program was very simple.
+All I had to do was ensure that the buttons, when clicked,
+inputted the correct text into the output label and displayed
+the text on the screen.
+
+Each button has its own click event method, and I labeled each 
+button according to the word displayed on it. This allowed them
+to be organized and easily identifiable. 
+
+When I ran the program I found no problems with the buttons 
+showing the wrong text or the output text not showing at all.
+It ran exactly the way that I was hoping it would.
+
+I did not use Google translate for this project because A) I do
+not completely trust how it translates some more complex sentences,
+and B) I happened to have several Japanese textbooks on hand.
+Thus, I knew exactly how the Japanese words are spelled using the 
+English letters and what the words meaned. Plus, I studied it for 
+two years. I did not test this aspect of the program, as a result.
