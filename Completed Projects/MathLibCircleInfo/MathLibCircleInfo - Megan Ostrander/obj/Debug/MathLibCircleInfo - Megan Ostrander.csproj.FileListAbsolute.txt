@@ -1,0 +1,9 @@
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\bin\Debug\MathLibCircleInfo - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\bin\Debug\MathLibCircleInfo - Megan Ostrander.exe
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\bin\Debug\MathLibCircleInfo - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\obj\Debug\MathLibCircleInfo___Megan_Ostrander.Form1.resources
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\obj\Debug\MathLibCircleInfo___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\obj\Debug\MathLibCircleInfo - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\obj\Debug\MathLibCircleInfo - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\obj\Debug\MathLibCircleInfo - Megan Ostrander.exe
+C:\Users\Megan\source\repos\MathLibCircleInfo - Megan Ostrander\obj\Debug\MathLibCircleInfo - Megan Ostrander.pdb

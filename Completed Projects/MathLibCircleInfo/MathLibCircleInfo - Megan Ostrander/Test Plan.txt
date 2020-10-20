@@ -1,0 +1,14 @@
+MathLibCircleInfo - Megan Ostrander
+
+For testing this program I used the example finished product provided
+as well as manual calculations to verify that the code I wrote was
+properly taking the user radius input and calculating the correct
+diameter, circumference, and area of the circle. 
+
+I also looked up the formulas to ensure I remembered them correctly,
+as it has been several years since I used these formulas and I 
+wanted to ensure I was using the correct formulas. 
+
+I ultimately entered a few test values into my program and the sample
+program to compare their output and verify my program output matched
+that of the sample program output.
