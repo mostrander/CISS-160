@@ -1,0 +1,15 @@
+UIControlsAndMultiLine - Megan Ostrander test plan
+
+The main challenge I encountered with this project was getting the 
+textbox I used for displaying items ordered to recognize the new line
+character \n. As in the textbox was not recognizing \n at all and all
+of the information was being forced on the same line regardless of \n
+being present. 
+
+I found another method to create new lines in a string using the 
+Environment.newline, which actually worked for my purposes. I wanted
+to create more of an automation of the string concatention process
+because it would allow other options to be added without having to 
+rewrite a lot of code. It also saved me from having to rewrite my code
+to include several other possibilities or use an array to hold whatever
+values the user selected. 

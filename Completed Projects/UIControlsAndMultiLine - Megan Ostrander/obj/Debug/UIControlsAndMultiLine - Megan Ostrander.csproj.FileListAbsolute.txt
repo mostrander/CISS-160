@@ -1,0 +1,9 @@
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\bin\Debug\UIControlsAndMultiLine - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\bin\Debug\UIControlsAndMultiLine - Megan Ostrander.exe
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\bin\Debug\UIControlsAndMultiLine - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\obj\Debug\UIControlsAndMultiLine___Megan_Ostrander.Form1.resources
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\obj\Debug\UIControlsAndMultiLine___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\obj\Debug\UIControlsAndMultiLine - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\obj\Debug\UIControlsAndMultiLine - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\obj\Debug\UIControlsAndMultiLine - Megan Ostrander.exe
+C:\Users\Megan\source\repos\UIControlsAndMultiLine - Megan Ostrander\obj\Debug\UIControlsAndMultiLine - Megan Ostrander.pdb
