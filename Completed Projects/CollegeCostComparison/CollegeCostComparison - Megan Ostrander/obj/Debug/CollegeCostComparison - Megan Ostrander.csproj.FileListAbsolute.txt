@@ -1,0 +1,10 @@
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\obj\Debug\CollegeCostComparison - Megan Ostrander.csprojAssemblyReference.cache
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\obj\Debug\CollegeCostComparison___Megan_Ostrander.Form1.resources
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\obj\Debug\CollegeCostComparison___Megan_Ostrander.Properties.Resources.resources
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\obj\Debug\CollegeCostComparison - Megan Ostrander.csproj.GenerateResource.cache
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\obj\Debug\CollegeCostComparison - Megan Ostrander.csproj.CoreCompileInputs.cache
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\bin\Debug\CollegeCostComparison - Megan Ostrander.exe.config
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\bin\Debug\CollegeCostComparison - Megan Ostrander.exe
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\bin\Debug\CollegeCostComparison - Megan Ostrander.pdb
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\obj\Debug\CollegeCostComparison - Megan Ostrander.exe
+C:\Users\Megan\source\repos\CollegeCostComparison - Megan Ostrander\obj\Debug\CollegeCostComparison - Megan Ostrander.pdb

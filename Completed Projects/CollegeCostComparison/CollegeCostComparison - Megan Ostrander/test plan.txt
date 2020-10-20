@@ -1,0 +1,24 @@
+Test Plan CollegeCostComparisons - Megan Ostrander
+
+This program required that I verify that the calculations were
+indeed being processed correctly and producing the expected result.
+I verified them by doing the calculations by hand myself, and
+checking my answers against those that the computer produced based
+on the way I set up the calculations in the code. 
+
+I also used an if / else statement to set the background color
+to red for the results depending on which cost was higher. I
+had to add a clear statement for both result labels in order
+to test that the if / else statement was indeed working properly.
+If the user changes the information in the form and clicks on the
+button a 2nd time, it clears the background color and sets it 
+properly now based on which has the higher cost for that 
+calculation.
+
+I also included a clear button should the user want to continue
+to use the program and test additional schools without closing
+and relaunching the program. It was easy to verify that this worked,
+as you can visually see that the contents of each field has been
+removed. I added the background reset code from the calculations
+button method here as well, so that the backgrounds are reset to 
+white even if the user does not click on the calculate button.
